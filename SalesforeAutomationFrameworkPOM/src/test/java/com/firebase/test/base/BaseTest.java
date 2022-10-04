@@ -48,7 +48,7 @@ public class BaseTest {
 	@Parameters({ "browsername" })
 	@BeforeMethod
 	public static void setUp(String browsername,Method m ) {
-		System.out.println("beofre method execution started");
+		System.out.println("beofre method execution started.......");
 		report.startSingleTestReport(m.getName());
 		setDriver(browsername);
 		CommonUtilities CU = new CommonUtilities();
