@@ -1,0 +1,7 @@
+com\jan23\tests\TekarchAutomation.class
+com\jan23\utility\PropertiesUtility.class
+com\jan23\utility\XlsxDataUtility.class
+com\jan23\utility\Constants.class
+com\jan23\utility\ExtentReportsUtility.class
+com\jan23\base\BaseTest.class
+com\jan23\utility\TestEventListenersUtility.class

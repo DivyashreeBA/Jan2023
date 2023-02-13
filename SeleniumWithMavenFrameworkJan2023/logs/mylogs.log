@@ -1,0 +1,213 @@
+20230208 14:12:04 INFO  [main] base.BaseTest BaseTest.java66 - started testscript nameloginToFirebase
+20230208 14:12:09 INFO  [main] base.BaseTest BaseTest.java120 - going to the url=https://qa-tekarch.firebaseapp.com
+20230208 14:12:14 INFO  [main] tests.TekarchAutomation TekarchAutomation.java30 - inside loginToFirebase method
+20230208 14:12:16 INFO  [main] base.BaseTest BaseTest.java102 - pass:usernameEle  element cleared
+20230208 14:12:16 INFO  [main] base.BaseTest BaseTest.java85 - text entered in usernameElefield
+20230208 14:12:16 INFO  [main] base.BaseTest BaseTest.java102 - pass:passwordEle  element cleared
+20230208 14:12:16 INFO  [main] base.BaseTest BaseTest.java85 - text entered in passwordElefield
+20230208 14:12:17 INFO  [main] tests.TekarchAutomation TekarchAutomation.java52 - testcase passed
+20230209 09:47:21 INFO  [main] base.BaseTest BaseTest.java61 - started testscript nameStudent_registration_Form
+20230209 09:48:04 INFO  [main] base.BaseTest BaseTest.java61 - started testscript nameStudent_registration_Form
+20230209 09:49:40 INFO  [main] base.BaseTest BaseTest.java61 - started testscript nameStudent_registration_Form
+20230209 09:49:58 INFO  [main] base.BaseTest BaseTest.java111 - going to the url=https://qa-tekarch.firebaseapp.com
+20230209 09:50:02 INFO  [main] base.BaseTest BaseTest.java93 - pass:usernameEle  element cleared
+20230209 09:50:03 INFO  [main] base.BaseTest BaseTest.java79 - text entered in usernameElefield
+20230209 09:50:04 INFO  [main] base.BaseTest BaseTest.java93 - pass:passwordEle  element cleared
+20230209 09:50:04 INFO  [main] base.BaseTest BaseTest.java79 - text entered in passwordElefield
+20230209 09:50:09 INFO  [main] base.BaseTest BaseTest.java93 - pass:name field  element cleared
+20230209 09:50:09 INFO  [main] base.BaseTest BaseTest.java79 - text entered in name fieldfield
+20230209 09:53:29 INFO  [main] base.BaseTest BaseTest.java61 - started testscript nameStudent_registration_Form
+20230209 09:53:37 INFO  [main] base.BaseTest BaseTest.java111 - going to the url=https://qa-tekarch.firebaseapp.com
+20230209 09:53:42 INFO  [main] base.BaseTest BaseTest.java93 - pass:usernameEle  element cleared
+20230209 09:53:43 INFO  [main] base.BaseTest BaseTest.java79 - text entered in usernameElefield
+20230209 09:53:43 INFO  [main] base.BaseTest BaseTest.java93 - pass:passwordEle  element cleared
+20230209 09:53:43 INFO  [main] base.BaseTest BaseTest.java79 - text entered in passwordElefield
+20230209 09:53:49 INFO  [main] base.BaseTest BaseTest.java93 - pass:name field  element cleared
+20230209 09:53:49 INFO  [main] base.BaseTest BaseTest.java79 - text entered in name fieldfield
+20230209 09:53:50 INFO  [main] base.BaseTest BaseTest.java61 - started testscript nameerror_loginToFirebase
+20230209 09:53:54 INFO  [main] base.BaseTest BaseTest.java111 - going to the url=https://qa-tekarch.firebaseapp.com
+20230209 09:53:58 INFO  [main] base.BaseTest BaseTest.java93 - pass:usernameEle  element cleared
+20230209 09:53:59 INFO  [main] base.BaseTest BaseTest.java79 - text entered in usernameElefield
+20230209 09:53:59 INFO  [main] base.BaseTest BaseTest.java93 - pass:passwordEle  element cleared
+20230209 09:54:00 INFO  [main] base.BaseTest BaseTest.java79 - text entered in passwordElefield
+20230209 09:54:05 INFO  [main] base.BaseTest BaseTest.java61 - started testscript nameloginToFirebase
+20230209 09:54:09 INFO  [main] base.BaseTest BaseTest.java111 - going to the url=https://qa-tekarch.firebaseapp.com
+20230209 09:54:12 INFO  [main] tests.TekarchAutomation TekarchAutomation.java34 - inside loginToFirebase method
+20230209 09:54:14 INFO  [main] base.BaseTest BaseTest.java93 - pass:usernameEle  element cleared
+20230209 09:54:14 INFO  [main] base.BaseTest BaseTest.java79 - text entered in usernameElefield
+20230209 09:54:15 INFO  [main] base.BaseTest BaseTest.java93 - pass:passwordEle  element cleared
+20230209 09:54:16 INFO  [main] base.BaseTest BaseTest.java79 - text entered in passwordElefield
+20230209 10:15:49 INFO  [main] base.BaseTest BaseTest.java62 - started testscript nameloginToFirebase
+20230209 10:15:56 INFO  [main] base.BaseTest BaseTest.java114 - going to the url=https://qa-tekarch.firebaseapp.com
+20230209 10:16:01 INFO  [main] tests.TekarchAutomation TekarchAutomation.java34 - inside loginToFirebase method
+20230209 10:16:03 INFO  [main] base.BaseTest BaseTest.java94 - pass:usernameEle  element cleared
+20230209 10:16:03 INFO  [main] base.BaseTest BaseTest.java80 - text entered in usernameElefield
+20230209 10:16:03 INFO  [main] base.BaseTest BaseTest.java94 - pass:passwordEle  element cleared
+20230209 10:16:04 INFO  [main] base.BaseTest BaseTest.java80 - text entered in passwordElefield
+20230209 10:16:25 INFO  [main] base.BaseTest BaseTest.java62 - started testscript nameStudent_registration_Form
+20230209 10:16:31 INFO  [main] base.BaseTest BaseTest.java114 - going to the url=https://qa-tekarch.firebaseapp.com
+20230209 10:16:36 INFO  [main] base.BaseTest BaseTest.java94 - pass:usernameEle  element cleared
+20230209 10:16:36 INFO  [main] base.BaseTest BaseTest.java80 - text entered in usernameElefield
+20230209 10:16:37 INFO  [main] base.BaseTest BaseTest.java94 - pass:passwordEle  element cleared
+20230209 10:16:37 INFO  [main] base.BaseTest BaseTest.java80 - text entered in passwordElefield
+20230209 10:16:42 INFO  [main] base.BaseTest BaseTest.java94 - pass:name field  element cleared
+20230209 10:16:43 INFO  [main] base.BaseTest BaseTest.java80 - text entered in name fieldfield
+20230209 10:16:44 INFO  [main] base.BaseTest BaseTest.java62 - started testscript nameerror_loginToFirebase
+20230209 10:16:47 INFO  [main] base.BaseTest BaseTest.java114 - going to the url=https://qa-tekarch.firebaseapp.com
+20230209 10:16:53 INFO  [main] base.BaseTest BaseTest.java94 - pass:usernameEle  element cleared
+20230209 10:16:53 INFO  [main] base.BaseTest BaseTest.java80 - text entered in usernameElefield
+20230209 10:16:53 INFO  [main] base.BaseTest BaseTest.java94 - pass:passwordEle  element cleared
+20230209 10:16:54 INFO  [main] base.BaseTest BaseTest.java80 - text entered in passwordElefield
+20230209 10:17:00 INFO  [main] base.BaseTest BaseTest.java62 - started testscript nameloginToFirebase
+20230209 10:17:03 INFO  [main] base.BaseTest BaseTest.java114 - going to the url=https://qa-tekarch.firebaseapp.com
+20230209 10:17:07 INFO  [main] tests.TekarchAutomation TekarchAutomation.java34 - inside loginToFirebase method
+20230209 10:17:08 INFO  [main] base.BaseTest BaseTest.java94 - pass:usernameEle  element cleared
+20230209 10:17:09 INFO  [main] base.BaseTest BaseTest.java80 - text entered in usernameElefield
+20230209 10:17:10 INFO  [main] base.BaseTest BaseTest.java94 - pass:passwordEle  element cleared
+20230209 10:17:10 INFO  [main] base.BaseTest BaseTest.java80 - text entered in passwordElefield
+20230209 11:51:23 INFO  [main] base.BaseTest BaseTest.java62 - started testscript nameStudent_registration_Form
+20230209 11:51:52 INFO  [main] base.BaseTest BaseTest.java114 - going to the url=https://qa-tekarch.firebaseapp.com
+20230209 11:52:05 INFO  [main] base.BaseTest BaseTest.java94 - pass:usernameEle  element cleared
+20230209 11:52:06 INFO  [main] base.BaseTest BaseTest.java80 - text entered in usernameElefield
+20230209 11:52:06 INFO  [main] base.BaseTest BaseTest.java94 - pass:passwordEle  element cleared
+20230209 11:52:06 INFO  [main] base.BaseTest BaseTest.java80 - text entered in passwordElefield
+20230209 11:52:12 INFO  [main] base.BaseTest BaseTest.java94 - pass:name field  element cleared
+20230209 11:52:12 INFO  [main] base.BaseTest BaseTest.java80 - text entered in name fieldfield
+20230209 11:52:14 INFO  [main] base.BaseTest BaseTest.java62 - started testscript nameerror_loginToFirebase
+20230209 11:52:17 INFO  [main] base.BaseTest BaseTest.java114 - going to the url=https://qa-tekarch.firebaseapp.com
+20230209 11:52:22 INFO  [main] base.BaseTest BaseTest.java94 - pass:usernameEle  element cleared
+20230209 11:52:23 INFO  [main] base.BaseTest BaseTest.java80 - text entered in usernameElefield
+20230209 11:52:23 INFO  [main] base.BaseTest BaseTest.java94 - pass:passwordEle  element cleared
+20230209 11:52:24 INFO  [main] base.BaseTest BaseTest.java80 - text entered in passwordElefield
+20230209 11:52:30 INFO  [main] base.BaseTest BaseTest.java62 - started testscript nameloginToFirebase
+20230209 11:52:33 INFO  [main] base.BaseTest BaseTest.java114 - going to the url=https://qa-tekarch.firebaseapp.com
+20230209 11:52:37 INFO  [main] tests.TekarchAutomation TekarchAutomation.java34 - inside loginToFirebase method
+20230209 11:52:38 INFO  [main] base.BaseTest BaseTest.java94 - pass:usernameEle  element cleared
+20230209 11:52:38 INFO  [main] base.BaseTest BaseTest.java80 - text entered in usernameElefield
+20230209 11:52:39 INFO  [main] base.BaseTest BaseTest.java94 - pass:passwordEle  element cleared
+20230209 11:52:39 INFO  [main] base.BaseTest BaseTest.java80 - text entered in passwordElefield
+20230209 12:05:17 INFO  [main] base.BaseTest BaseTest.java62 - started testscript nameStudent_registration_Form
+20230209 12:05:24 INFO  [main] base.BaseTest BaseTest.java114 - going to the url=https://qa-tekarch.firebaseapp.com
+20230209 12:05:30 INFO  [main] base.BaseTest BaseTest.java94 - pass:usernameEle  element cleared
+20230209 12:05:31 INFO  [main] base.BaseTest BaseTest.java80 - text entered in usernameElefield
+20230209 12:05:31 INFO  [main] base.BaseTest BaseTest.java94 - pass:passwordEle  element cleared
+20230209 12:05:32 INFO  [main] base.BaseTest BaseTest.java80 - text entered in passwordElefield
+20230209 12:05:38 INFO  [main] base.BaseTest BaseTest.java94 - pass:name field  element cleared
+20230209 12:05:38 INFO  [main] base.BaseTest BaseTest.java80 - text entered in name fieldfield
+20230209 12:05:40 INFO  [main] base.BaseTest BaseTest.java62 - started testscript nameerror_loginToFirebase
+20230209 12:05:45 INFO  [main] base.BaseTest BaseTest.java114 - going to the url=https://qa-tekarch.firebaseapp.com
+20230209 12:05:58 INFO  [main] base.BaseTest BaseTest.java94 - pass:usernameEle  element cleared
+20230209 12:05:58 INFO  [main] base.BaseTest BaseTest.java80 - text entered in usernameElefield
+20230209 12:05:59 INFO  [main] base.BaseTest BaseTest.java94 - pass:passwordEle  element cleared
+20230209 12:05:59 INFO  [main] base.BaseTest BaseTest.java80 - text entered in passwordElefield
+20230209 12:06:05 INFO  [main] base.BaseTest BaseTest.java62 - started testscript nameloginToFirebase
+20230209 12:06:09 INFO  [main] base.BaseTest BaseTest.java114 - going to the url=https://qa-tekarch.firebaseapp.com
+20230209 12:06:12 INFO  [main] tests.TekarchAutomation TekarchAutomation.java34 - inside loginToFirebase method
+20230209 12:06:14 INFO  [main] base.BaseTest BaseTest.java94 - pass:usernameEle  element cleared
+20230209 12:06:14 INFO  [main] base.BaseTest BaseTest.java80 - text entered in usernameElefield
+20230209 12:06:14 INFO  [main] base.BaseTest BaseTest.java94 - pass:passwordEle  element cleared
+20230209 12:06:15 INFO  [main] base.BaseTest BaseTest.java80 - text entered in passwordElefield
+20230209 12:18:12 INFO  [main] base.BaseTest BaseTest.java62 - started testscript nameStudent_registration_Form
+20230209 12:18:35 INFO  [main] base.BaseTest BaseTest.java62 - started testscript nameStudent_registration_Form
+20230209 12:18:40 INFO  [main] base.BaseTest BaseTest.java114 - going to the url=https://qa-tekarch.firebaseapp.com
+20230209 12:18:48 INFO  [main] base.BaseTest BaseTest.java94 - pass:usernameEle  element cleared
+20230209 12:18:48 INFO  [main] base.BaseTest BaseTest.java80 - text entered in usernameElefield
+20230209 12:18:48 INFO  [main] base.BaseTest BaseTest.java94 - pass:passwordEle  element cleared
+20230209 12:18:48 INFO  [main] base.BaseTest BaseTest.java80 - text entered in passwordElefield
+20230209 12:18:54 INFO  [main] base.BaseTest BaseTest.java94 - pass:name field  element cleared
+20230209 12:18:54 INFO  [main] base.BaseTest BaseTest.java80 - text entered in name fieldfield
+20230209 12:18:54 INFO  [main] base.BaseTest BaseTest.java62 - started testscript nameerror_loginToFirebase
+20230209 12:18:57 INFO  [main] base.BaseTest BaseTest.java114 - going to the url=https://qa-tekarch.firebaseapp.com
+20230209 12:19:01 INFO  [main] base.BaseTest BaseTest.java94 - pass:usernameEle  element cleared
+20230209 12:19:01 INFO  [main] base.BaseTest BaseTest.java80 - text entered in usernameElefield
+20230209 12:19:01 INFO  [main] base.BaseTest BaseTest.java94 - pass:passwordEle  element cleared
+20230209 12:19:01 INFO  [main] base.BaseTest BaseTest.java80 - text entered in passwordElefield
+20230209 12:19:07 INFO  [main] base.BaseTest BaseTest.java62 - started testscript nameloginToFirebase
+20230209 12:19:09 INFO  [main] base.BaseTest BaseTest.java114 - going to the url=https://qa-tekarch.firebaseapp.com
+20230209 12:19:13 INFO  [main] tests.TekarchAutomation TekarchAutomation.java34 - inside loginToFirebase method
+20230209 12:19:14 INFO  [main] base.BaseTest BaseTest.java94 - pass:usernameEle  element cleared
+20230209 12:19:14 INFO  [main] base.BaseTest BaseTest.java80 - text entered in usernameElefield
+20230209 12:19:14 INFO  [main] base.BaseTest BaseTest.java94 - pass:passwordEle  element cleared
+20230209 12:19:14 INFO  [main] base.BaseTest BaseTest.java80 - text entered in passwordElefield
+20230209 13:30:44 INFO  [main] base.BaseTest BaseTest.java62 - started testscript nameStudent_registration_Form
+20230209 13:30:49 INFO  [main] base.BaseTest BaseTest.java114 - going to the url=https://qa-tekarch.firebaseapp.com
+20230209 13:30:56 INFO  [main] base.BaseTest BaseTest.java94 - pass:usernameEle  element cleared
+20230209 13:30:56 INFO  [main] base.BaseTest BaseTest.java80 - text entered in usernameElefield
+20230209 13:30:56 INFO  [main] base.BaseTest BaseTest.java94 - pass:passwordEle  element cleared
+20230209 13:30:56 INFO  [main] base.BaseTest BaseTest.java80 - text entered in passwordElefield
+20230209 13:31:01 INFO  [main] base.BaseTest BaseTest.java94 - pass:name field  element cleared
+20230209 13:31:01 INFO  [main] base.BaseTest BaseTest.java80 - text entered in name fieldfield
+20230209 13:32:23 INFO  [main] base.BaseTest BaseTest.java62 - started testscript nameStudent_registration_Form
+20230209 13:32:25 INFO  [main] base.BaseTest BaseTest.java114 - going to the url=https://qa-tekarch.firebaseapp.com
+20230209 13:32:29 INFO  [main] base.BaseTest BaseTest.java94 - pass:usernameEle  element cleared
+20230209 13:32:29 INFO  [main] base.BaseTest BaseTest.java80 - text entered in usernameElefield
+20230209 13:32:30 INFO  [main] base.BaseTest BaseTest.java94 - pass:passwordEle  element cleared
+20230209 13:32:30 INFO  [main] base.BaseTest BaseTest.java80 - text entered in passwordElefield
+20230209 13:32:35 INFO  [main] base.BaseTest BaseTest.java94 - pass:name field  element cleared
+20230209 13:32:35 INFO  [main] base.BaseTest BaseTest.java80 - text entered in name fieldfield
+20230209 13:36:48 INFO  [main] base.BaseTest BaseTest.java62 - started testscript nameStudent_registration_Form
+20230209 13:36:50 INFO  [main] base.BaseTest BaseTest.java114 - going to the url=https://qa-tekarch.firebaseapp.com
+20230209 13:36:55 INFO  [main] base.BaseTest BaseTest.java94 - pass:usernameEle  element cleared
+20230209 13:36:55 INFO  [main] base.BaseTest BaseTest.java80 - text entered in usernameElefield
+20230209 13:36:55 INFO  [main] base.BaseTest BaseTest.java94 - pass:passwordEle  element cleared
+20230209 13:36:55 INFO  [main] base.BaseTest BaseTest.java80 - text entered in passwordElefield
+20230209 13:37:01 INFO  [main] base.BaseTest BaseTest.java94 - pass:name field  element cleared
+20230209 13:37:01 INFO  [main] base.BaseTest BaseTest.java80 - text entered in name fieldfield
+20230209 13:40:38 INFO  [main] base.BaseTest BaseTest.java62 - started testscript nameStudent_registration_Form
+20230209 13:40:41 INFO  [main] base.BaseTest BaseTest.java114 - going to the url=https://qa-tekarch.firebaseapp.com
+20230209 13:40:44 INFO  [main] base.BaseTest BaseTest.java94 - pass:usernameEle  element cleared
+20230209 13:40:44 INFO  [main] base.BaseTest BaseTest.java80 - text entered in usernameElefield
+20230209 13:40:45 INFO  [main] base.BaseTest BaseTest.java94 - pass:passwordEle  element cleared
+20230209 13:40:45 INFO  [main] base.BaseTest BaseTest.java80 - text entered in passwordElefield
+20230209 13:40:50 INFO  [main] base.BaseTest BaseTest.java94 - pass:name field  element cleared
+20230209 13:40:50 INFO  [main] base.BaseTest BaseTest.java80 - text entered in name fieldfield
+20230210 09:07:17 INFO  [main] base.BaseTest BaseTest.java62 - started testscript nameStudent_registration_Form
+20230210 09:07:35 INFO  [main] base.BaseTest BaseTest.java114 - going to the url=https://qa-tekarch.firebaseapp.com
+20230210 09:07:43 INFO  [main] base.BaseTest BaseTest.java94 - pass:usernameEle  element cleared
+20230210 09:07:44 INFO  [main] base.BaseTest BaseTest.java80 - text entered in usernameElefield
+20230210 09:07:44 INFO  [main] base.BaseTest BaseTest.java94 - pass:passwordEle  element cleared
+20230210 09:07:44 INFO  [main] base.BaseTest BaseTest.java80 - text entered in passwordElefield
+20230210 09:07:50 INFO  [main] base.BaseTest BaseTest.java94 - pass:name field  element cleared
+20230210 09:07:50 INFO  [main] base.BaseTest BaseTest.java80 - text entered in name fieldfield
+20230210 09:07:51 INFO  [main] base.BaseTest BaseTest.java62 - started testscript nameerror_loginToFirebase
+20230210 09:07:54 INFO  [main] base.BaseTest BaseTest.java114 - going to the url=https://qa-tekarch.firebaseapp.com
+20230210 09:08:02 INFO  [main] base.BaseTest BaseTest.java94 - pass:usernameEle  element cleared
+20230210 09:08:03 INFO  [main] base.BaseTest BaseTest.java80 - text entered in usernameElefield
+20230210 09:08:03 INFO  [main] base.BaseTest BaseTest.java94 - pass:passwordEle  element cleared
+20230210 09:08:03 INFO  [main] base.BaseTest BaseTest.java80 - text entered in passwordElefield
+20230210 09:08:09 INFO  [main] base.BaseTest BaseTest.java62 - started testscript nameloginToFirebase
+20230210 09:08:12 INFO  [main] base.BaseTest BaseTest.java114 - going to the url=https://qa-tekarch.firebaseapp.com
+20230210 09:08:16 INFO  [main] tests.TekarchAutomation TekarchAutomation.java34 - inside loginToFirebase method
+20230210 09:08:17 INFO  [main] base.BaseTest BaseTest.java94 - pass:usernameEle  element cleared
+20230210 09:08:17 INFO  [main] base.BaseTest BaseTest.java80 - text entered in usernameElefield
+20230210 09:08:18 INFO  [main] base.BaseTest BaseTest.java94 - pass:passwordEle  element cleared
+20230210 09:08:18 INFO  [main] base.BaseTest BaseTest.java80 - text entered in passwordElefield
+20230210 09:16:20 INFO  [main] base.BaseTest BaseTest.java62 - started testscript nameStudent_registration_Form
+20230210 09:16:25 INFO  [main] base.BaseTest BaseTest.java114 - going to the url=https://qa-tekarch.firebaseapp.com
+20230210 09:16:31 INFO  [main] base.BaseTest BaseTest.java94 - pass:usernameEle  element cleared
+20230210 09:16:32 INFO  [main] base.BaseTest BaseTest.java80 - text entered in usernameElefield
+20230210 09:16:32 INFO  [main] base.BaseTest BaseTest.java94 - pass:passwordEle  element cleared
+20230210 09:16:32 INFO  [main] base.BaseTest BaseTest.java80 - text entered in passwordElefield
+20230210 09:16:38 INFO  [main] base.BaseTest BaseTest.java94 - pass:name field  element cleared
+20230210 09:16:38 INFO  [main] base.BaseTest BaseTest.java80 - text entered in name fieldfield
+20230210 09:16:39 INFO  [main] base.BaseTest BaseTest.java62 - started testscript nameerror_loginToFirebase
+20230210 09:16:42 INFO  [main] base.BaseTest BaseTest.java114 - going to the url=https://qa-tekarch.firebaseapp.com
+20230210 09:16:48 INFO  [main] base.BaseTest BaseTest.java94 - pass:usernameEle  element cleared
+20230210 09:16:48 INFO  [main] base.BaseTest BaseTest.java80 - text entered in usernameElefield
+20230210 09:16:48 INFO  [main] base.BaseTest BaseTest.java94 - pass:passwordEle  element cleared
+20230210 09:16:48 INFO  [main] base.BaseTest BaseTest.java80 - text entered in passwordElefield
+20230210 09:16:54 INFO  [main] base.BaseTest BaseTest.java62 - started testscript nameloginToFirebase
+20230210 09:16:57 INFO  [main] base.BaseTest BaseTest.java114 - going to the url=https://qa-tekarch.firebaseapp.com
+20230210 09:17:01 INFO  [main] tests.TekarchAutomation TekarchAutomation.java34 - inside loginToFirebase method
+20230210 09:17:02 INFO  [main] base.BaseTest BaseTest.java94 - pass:usernameEle  element cleared
+20230210 09:17:02 INFO  [main] base.BaseTest BaseTest.java80 - text entered in usernameElefield
+20230210 09:17:03 INFO  [main] base.BaseTest BaseTest.java94 - pass:passwordEle  element cleared
+20230210 09:17:03 INFO  [main] base.BaseTest BaseTest.java80 - text entered in passwordElefield
+20230210 11:05:47 INFO  [main] base.BaseTest BaseTest.java63 - started testscript nameStudent_registration_Form
+20230210 11:05:53 INFO  [main] base.BaseTest BaseTest.java115 - going to the url=https://qa-tekarch.firebaseapp.com
+20230210 11:05:59 INFO  [main] base.BaseTest BaseTest.java95 - pass:usernameEle  element cleared
+20230210 11:06:00 INFO  [main] base.BaseTest BaseTest.java81 - text entered in usernameElefield
+20230210 11:06:00 INFO  [main] base.BaseTest BaseTest.java95 - pass:passwordEle  element cleared
+20230210 11:06:01 INFO  [main] base.BaseTest BaseTest.java81 - text entered in passwordElefield
+20230210 11:06:06 INFO  [main] base.BaseTest BaseTest.java95 - pass:name field  element cleared
+20230210 11:06:06 INFO  [main] base.BaseTest BaseTest.java81 - text entered in name fieldfield
